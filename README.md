@@ -3,5 +3,5 @@
 Перед запуском убедитесь, что вы находитесь в правильной директории.
 Выполните данную команду:
 ```bash
-./copy_path.bash InputDir OutputDir
+./copy_dir.bash InputDir OutputDir
 ```
