@@ -1,2 +1,2 @@
 Запустить программу с помощью команды
-« {bash}< >{./copy_path.bash InputDir OutputDir} «
+« {bash}<пробел>{./copy_path.bash InputDir OutputDir} «
